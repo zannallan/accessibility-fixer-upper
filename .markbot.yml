@@ -1,5 +1,5 @@
 repo: 'accessibility-fixer-upper'
-canvasCourse: 'web-dev-3'
+canvasCourse: 'web-dev-2'
 
 inherit:
   - naming-restrict-live
