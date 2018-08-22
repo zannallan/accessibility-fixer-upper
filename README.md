@@ -25,4 +25,4 @@ Pass all of Markbot’s accessibility requirements and visually match the images
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
