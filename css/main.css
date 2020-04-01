@@ -12,7 +12,6 @@ html {
 
 a {
   color: #568c36;
-  text-decoration: none;
 }
 
 a:hover {
@@ -73,7 +72,6 @@ td {
 .btn {
   background-color: #113c00;
   border-color: #113c00;
-
   color: #fff;
 }
 
@@ -85,6 +83,10 @@ td {
 .footer {
   background-color: #113c00;
   color: #fff;
+}
+
+p a {
+  color: #113c00;
 }
 
 @media only screen and (min-width: 35em) {
